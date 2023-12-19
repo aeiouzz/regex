@@ -22,6 +22,13 @@
    - [^] : 부정문자셋, 괄호 안의 어떤 문자가 아닐 때
    - (?:) : 찾지만 기억하지는 않음
 
+ⓑ 제한하기 위해 사용하는
+- ? : 없거나 있거나(zero 또는 one)
+
+
+
+
+
 ex) 
 ![image](https://github.com/aeiouzz/regex/assets/145514483/08e143ad-d8d5-4a79-b9d7-180b09a558da)
 ![image](https://github.com/aeiouzz/regex/assets/145514483/544cccce-6358-4217-984b-fcc7ce269daf)
@@ -63,5 +70,21 @@ ex) [abcdefg] = [a-g]
 
 ![image](https://github.com/aeiouzz/regex/assets/145514483/205bbd04-61c4-4bd2-994b-700c310ed8a5)
 ![image](https://github.com/aeiouzz/regex/assets/145514483/a541d559-fc00-4477-97c8-f22094469227)
+
+
+
+
+ex) a~z A~Z 0~9까지 하나라도 있으면 찾아라
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/c13d317a-8339-40c2-bae3-1e92ca4923c8)
+
+ex) a~z A~Z 0~9까지 모두 제외하고 찾아라(^)
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/6a9f58e8-67f6-4361-a649-f61c2cfeb063)
+
 
 
