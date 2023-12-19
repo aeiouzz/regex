@@ -138,3 +138,38 @@ ex) * : 있거나 없거나 많거나
 
 
 
+ex) + : 하나 또는 많거나 (one or more) 
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/7e2f4857-537f-4839-9cfa-ceae0ba08cf7)
+
+
+
+
+ex) {3} : a가 3번 나오는 걸 찾아라 (n번 반복)
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/e349755a-46b7-413a-9c5d-0f5642dc2d0c)
+
+
+
+ex) {min,} : 최소
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/d9525b85-446c-4b1b-a249-221d5084e8a2)
+
+
+ex) a가 2개부터 4개까지 한정
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/4562021e-99b1-4524-a7df-321e477db4ad)
+
+
+
+
+
+
