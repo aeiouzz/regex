@@ -48,7 +48,7 @@
 - \W : 문자 아님
 - \s : 공백
 - \S : 공백 아님
-- 
+  
 
 
 
@@ -119,6 +119,22 @@ ex) a~z A~Z 0~9까지 모두 제외하고 찾아라(^)
 
 
 ![image](https://github.com/aeiouzz/regex/assets/145514483/6a9f58e8-67f6-4361-a649-f61c2cfeb063)
+
+
+
+
+ex) ? : 있거나 없거나 (많거나 X)
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/b355507e-2d52-4494-84f7-5049a05f84ac)
+
+
+ex) * : 있거나 없거나 많거나
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/88924c25-0734-495a-babc-b5654c2b0a64)
 
 
 
