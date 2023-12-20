@@ -296,5 +296,20 @@ ex) \W : 특수문자
 
 
 
-ㅇㄹㅇㄹ
+
+ex) \s : 공백
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/767650b2-7167-4329-a526-8fa55e79a2b2)
+
+
+
+ex) \S : 공백을 제외한 모든 글자
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/35ebbb5e-e755-4cfe-a460-c70f1c5b5c73)
+
+
 
