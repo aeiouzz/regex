@@ -238,10 +238,62 @@ ex) $ 문장의 끝 - Ya로 끝나는 문장을 찾아라
 
  --------------------------------------------------------
 ex) . : 모든 문자
-\
+
 
 
 ![image](https://github.com/aeiouzz/regex/assets/145514483/bc8da87d-5573-4b6a-8877-bede0405e814)
+
+
+
+
+ex) \. : 특수문자 . 을 찾고자 할 때 / 특수문자 []{} 찾을 때
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/c1032006-c45b-44de-a487-e3015c6c51db)
+
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/f065695f-922c-4645-948b-86d7f5cefb74)
+
+
+
+
+ex) \d : 모든 숫자
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/542875be-f1d3-4c9f-9fc3-e447c7324f48)
+
+
+
+ex) \D : 숫자가 아닌 모든 것
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/62a5d9ac-86f4-401b-9903-3ce7652966d9)
+
+
+
+
+ex) \w : 특수문자를 제외한 모든 글자
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/ddfa5d13-1cce-4017-a049-cc7d31098db2)
+
+
+
+
+ex) \W : 특수문자
+
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/daa3b0b5-4642-40f5-9a24-1ccabd820f25)
+
+
 
 
 
