@@ -170,6 +170,28 @@ ex) a가 2개부터 4개까지 한정
 
 
 
+ex) [\b] : \bYa - Ya로 시작하는 단어
 
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/a579f5db-a381-48a1-8d27-efd862f8e23a)
+
+
+
+ex) [\b] : Ya\b - Ya로 끝나는 단어
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/1b1dfcdf-022b-4043-a345-4f64028f163c)
+
+
+
+
+ex) [\b] : Ya\B - Ya로 끝나지 않는 것
+
+
+
+
+![image](https://github.com/aeiouzz/regex/assets/145514483/17465ac7-9a2a-4073-ae5e-c35aeb829ae0)
 
 
